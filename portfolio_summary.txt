@@ -1,0 +1,7 @@
+Stock Portfolio Summary
+========================================
+AAPL | Price: $180 | Qty: 120 | Investment: $21600
+GOOGL | Price: $140 | Qty: 30 | Investment: $4200
+AMZN | Price: $150 | Qty: 50 | Investment: $7500
+========================================
+Total Investment: $33300
